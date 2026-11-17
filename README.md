@@ -55,3 +55,4 @@ Developed an interactive sales dashboard to monitor KPIs, compare store performa
 Power BI | Data Cleaning | Power Query | DAX | Data Visualization | Business Analysis
 ## 📸 Dashboard Preview
 
+![Coffee Shop Sales Dashboard](coffee%20ss.png)
